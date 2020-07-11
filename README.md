@@ -6,7 +6,8 @@ Some of my key skills include - Native Android, Java, Python, MATLAB, JavaScript
  
 * 😍 My.love(Electronics) == My.love(Programming)
 * 😎 Check my cool projects 👇 and some of my other interesting [repos](https://github.com/NitishGadangi?tab=repositories)
-* ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. Suggest me a 📺 Series, I can Binge Watch anything.
+* ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
+*  Also..Suggest me a some Binge Worthy 📺 Series.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
 * 📫 How to reach me ? -> nitishgadangi@gmail.com (OR)
 
