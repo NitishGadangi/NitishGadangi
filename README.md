@@ -5,7 +5,7 @@ I'm Computer and Electronics Enthusiast with a good handshake in programming �
 Some of my key skills include - Native Android, Java, Python, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs
  
 * 😍 My.love(Electronics) == My.love(Programming)
-* 😎 Check my cool projects 👇 and some of my other interesting [repos](https://github.com/NitishGadangi?tab=repositories)
+* 😎 Checkout some of my cool projects 👇 and [here](https://github.com/NitishGadangi?tab=repositories)
 * ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
 *  Also..Suggest me a some Binge Worthy 📺 Series.
 * 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
