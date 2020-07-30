@@ -8,9 +8,7 @@ Some of my key skills include - Native Android, Java, Python, MATLAB, JavaScript
  
 * 😍 My.love(Electronics) == My.love(Programming)
 * 😎 Checkout some of my cool projects 👇 and [here](https://github.com/NitishGadangi?tab=repositories)
-* ⚡ Fun fact: 🍜 Need some Food suggestion; Ping me 😉. 
-*  Also..Suggest me a some Binge Worthy 📺 Series.
-* 💬 Ask me about anything (either for a suggestion or a help). I am always ready to help at my best 😁.
+* 💬 Ask me about anything. I am always ready to help at my best 😁.
 * 📫 How to reach me ? -> nitishgadangi@gmail.com (OR)
 
 [![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
