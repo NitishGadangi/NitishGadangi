@@ -6,7 +6,7 @@ I'm Computer and Electronics Enthusiast with a good handshake in programming ðŸ¤
 
 Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs
 
-[![Profile](https://img.shields.io/badge/Website-orange.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
+[![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/Nitish-Gadangi/)
 [![Medium](https://img.shields.io/badge/medium-black.svg?style=for-the-badge&logo=medium)](https://medium.com/@nitishgadangi)
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nitish.gadangi)
@@ -14,4 +14,4 @@ Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, Ja
 
 **If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.**
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-red.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee)
