@@ -12,6 +12,6 @@ Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, Ja
 [![Facebook](https://img.shields.io/badge/facebook-blue.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nitish.gadangi)
 [![Instagram](https://img.shields.io/badge/Instagram-red.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/so_called_geek/)
 
-**If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.**
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee)
+> **If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.**
+>
+> [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee)
