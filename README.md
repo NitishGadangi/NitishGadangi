@@ -4,7 +4,7 @@ I'm Computer and Electronics Enthusiast with a good handshake in programming �
 
 <!-- **Android Developer Intern at [theatom.app](https://www.theatom.app)** -->
 
-Some of my key skills include - Native Android, Java, Python, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs
+Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs
  
 * 😍 My.love(Electronics) == My.love(Programming)
 * 😎 Checkout some of my cool projects 👇 and [here](https://github.com/NitishGadangi?tab=repositories)
