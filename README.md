@@ -14,4 +14,6 @@ Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, Ja
 
 > **If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.**
 >
-> [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee)
+> [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://nitishgadangi.github.io/?buy_me_coffee)
+
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee) -->
