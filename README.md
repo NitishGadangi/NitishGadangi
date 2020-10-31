@@ -4,7 +4,7 @@
 
 <!-- **Android Developer Intern at [theatom.app](https://www.theatom.app)** -->
 
-Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs
+<!-- Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs -->
 
 [![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/Nitish-Gadangi/)
