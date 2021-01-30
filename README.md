@@ -1,4 +1,4 @@
-### Hi 👋, I am Nitish Gadangi 👨‍💻. , I build things that aren't evil.!
+### Hi 👋, I am Nitish Gadangi, I build things that aren't evil.!
 
 Electronics 💣 + Programming 🔥 = 💥 
 
