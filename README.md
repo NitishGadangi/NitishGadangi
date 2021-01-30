@@ -2,11 +2,10 @@
 
 Electronics 💣 + Programming 🔥 = 💥 
 
-<!-- I'm Computer and Electronics Enthusiast with a good handshake in programming 🤓 , specializing in developing high quality Mobile 📱 and Web 🕸 Applications. I love coding and aspires to build things for good 🚀. I love developing awesome and efficient applications / tools 🛠. Apart from programing I have good experience in working with Drones/UAVs 🚁, Micro Controllers ❤ and IoT devices 🔌. -->
+Joined Github **3** years ago.
 
-<!-- **Android Developer Intern at [theatom.app](https://www.theatom.app)** -->
+Since then I pushed **870** commits, opened **23** issues, submitted **27** pull requests, received **237** stars across **50** personal projects and contributed to **15** public repositories.
 
-<!-- Some of my key skills include - Native Android, Java, Python, Kotlin, MATLAB, JavaScript (ES6+), Node.js, AR Core / Spark AR, Drones / UAVs -->
 
 [![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?style=for-the-badge&logo=linkedin)](https://in.linkedin.com/in/Nitish-Gadangi/)
@@ -17,5 +16,3 @@ Electronics 💣 + Programming 🔥 = 💥
 > **If you use any of my projects or like what I'm doing, please consider backing me with simple donations so that I can continue my open source work.**
 >
 > [![Buy Me A Coffee](https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png)](https://nitishgadangi.github.io/?buy_me_coffee)
-
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_Coffee-orange.svg?style=for-the-badge&logo=coffeescript&logoColor=white)](https://nitishgadangi.github.io/?buy_me_coffee) -->
