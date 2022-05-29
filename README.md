@@ -2,7 +2,7 @@
 
 Electronics 💣 + Programming 🔥 = 💥 
 
-Joined Github **4** years ago.
+Joined Github **5** years ago.
 
 Since then I pushed **997** commits, received **416** stars across **55** personal projects, opened **23** issues, submitted **48** pull requests and contributed to **5** public repositories.
 
