@@ -4,7 +4,7 @@ Electronics 💣 + Programming 🔥 = 💥
 
 Joined Github **6** years ago.
 
-Since then I pushed **955** commits, received **503** stars across **57** personal projects, opened **23** issues, submitted **30** pull requests and contributed to **1** public repositories.
+Since then I pushed **955** commits, received **503** stars across **57** personal projects, opened **23** issues, submitted **30** pull requests and contributed to **0** public repositories.
 
 
 [![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
