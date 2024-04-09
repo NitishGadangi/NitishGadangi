@@ -1,10 +1,10 @@
 ### Hi 👋, I am Nitish Gadangi, I build things that aren't evil.!
 
-Electronics 💣 + Programming 🔥 = 💥 
+You can find a lot of interesting 📱 Mobile(iOS & Android) projects along with a few 🌐 Backend Projects.
 
 Joined Github **6** years ago.
 
-Since then I pushed **995** commits, received **539** stars across **60** personal projects, opened **23** issues and submitted **30** pull requests.
+Since then I pushed **996** commits, received **539** stars across **60** personal projects, opened **23** issues and submitted **30** pull requests.
 
 
 [![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
