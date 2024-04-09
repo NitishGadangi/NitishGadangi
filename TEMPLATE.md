@@ -1,6 +1,6 @@
 ### Hi 👋, I am Nitish Gadangi, I build things that aren't evil.!
 
-Electronics 💣 + Programming 🔥 = 💥 
+You can find a lot of interesting 📱 Mobile(iOS & Android) projects along with a few 🌐 Backend Projects.
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
