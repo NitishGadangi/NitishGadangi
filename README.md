@@ -2,7 +2,7 @@
 
 You can find a lot of interesting 📱 Mobile(iOS & Android) projects along with a few 🌐 Backend Projects.
 
-Joined Github **6** years ago.
+Joined Github **7** years ago.
 
 Since then I pushed **997** commits, received **543** stars across **60** personal projects, opened **23** issues and submitted **30** pull requests.
 
