@@ -4,7 +4,7 @@ You can find a lot of interesting 📱 Mobile(iOS & Android) projects along with
 
 Joined Github **9** years ago.
 
-Since then I pushed **1371** commits, received **594** stars across **74** personal projects, opened **23** issues and submitted **31** pull requests.
+Since then I pushed **1371** commits, received **595** stars across **74** personal projects, opened **23** issues and submitted **31** pull requests.
 
 
 [![Profile](https://img.shields.io/badge/Website-red.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nitishgadangi.github.io/)
